@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "sourceMap": true,
+    "target": "ES2015"
+  },
+  "include": ["index.ts"],
+  "exclude": ["node_modules"]
+}
